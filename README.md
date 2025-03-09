@@ -7,7 +7,7 @@ Here, I showcase various dashboards I have created using **Google Looker Studio,
 
 | 📌 Dashboard | 🔗 Link | 📖 Description |
 |-------------|--------|-------------|
-| **Dashboard Kesuksesan Kelahiran Bayi di Garut** | [View Dashboard]([https://link-to-dashboard.com](https://public.tableau.com/app/profile/muhammad.risqi.risfianda/viz/DashboardKesuksesanKelahiranBayidiGarut/Dashboard1)) | Tracks number of mother in garut that succeed and non succeed of birth. |
+| **Dashboard Kesuksesan Kelahiran Bayi di Garut** | [View Dashboard](https://public.tableau.com/app/profile/muhammad.risqi.risfianda/viz/DashboardKesuksesanKelahiranBayidiGarut/Dashboard1) | Tracks number of mother in garut that succeed and non succeed of birth. |
 
 ## 🛠️ Tools & Technologies
 - **Data Visualization**: Tableau, Google Looker Studio
