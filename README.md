@@ -8,7 +8,7 @@ Here, I showcase various dashboards I have created using **Google Looker Studio,
 | Dashboard | Link | Platform | Description |
 |-------------|--------|--------|-------------|
 | **Dashboard Kesuksesan Kelahiran Bayi di Garut** | [View Dashboard](https://public.tableau.com/app/profile/muhammad.risqi.risfianda/viz/DashboardKesuksesanKelahiranBayidiGarut/Dashboard1) | Tableau | Tracks number of mother in garut that succeed and non succeed of birth. |
-| **Dashboard Analisa Data Penjualan Bahan** | [View Dashboard](https://docs.google.com/spreadsheets/d/1OoFE1SZ44Gbo0REdY26emjMaMwz8okhH/edit?usp=sharing&ouid=112349176116963816721&rtpof=true&sd=true) | Microsoft Excel | Tracking Data for Product Sales. |
+| **Dashboard Analisa Data Penjualan** | [View Dashboard](https://drive.google.com/file/d/1-_3Z6cw_i2ABcyZBUOaN0i7KC-n5JX9v/view?usp=sharing) [xlsx File](https://docs.google.com/spreadsheets/d/1OoFE1SZ44Gbo0REdY26emjMaMwz8okhH/edit?usp=sharing&ouid=112349176116963816721&rtpof=true&sd=true) | Microsoft Excel | Tracking Data for Product Sales. |
 
 ## 🚀 Available Reports
 
