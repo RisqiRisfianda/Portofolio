@@ -5,13 +5,13 @@ Here, I showcase various dashboards I have created using **Google Looker Studio,
 
 ## 🚀 Available Dashboards
 
-| 📌 Dashboard | 🔗 Link | 📖 Description |
-|-------------|--------|-------------|
-| **Dashboard Kesuksesan Kelahiran Bayi di Garut** | [View Dashboard](https://public.tableau.com/app/profile/muhammad.risqi.risfianda/viz/DashboardKesuksesanKelahiranBayidiGarut/Dashboard1) | Tracks number of mother in garut that succeed and non succeed of birth. |
+| Dashboard | Link | Platform | Description |
+|-------------|--------|--------|-------------|
+| **Dashboard Kesuksesan Kelahiran Bayi di Garut** | [View Dashboard](https://public.tableau.com/app/profile/muhammad.risqi.risfianda/viz/DashboardKesuksesanKelahiranBayidiGarut/Dashboard1) | Tableau | Tracks number of mother in garut that succeed and non succeed of birth. |
 
 ## 🚀 Available Reports
 
-| 📌 Reports | 🔗 Link | 📖 Description |
+| Reports | Link | Description |
 |-------------|--------|-------------|
 | **Confidence Interval pada Data Dummy** | [View Report](https://docs.google.com/presentation/d/1DDqThDmmakyET8R8TvJICuYFfGSFkcP4/edit?usp=sharing&ouid=112349176116963816721&rtpof=true&sd=true) | Search the value of Confidence Interval from Dummy data. |
 
